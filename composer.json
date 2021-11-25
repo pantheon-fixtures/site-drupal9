@@ -16,6 +16,7 @@
     "require": {
         "drupal/ctools": "^3.7",
         "drupal/entity": "^1.2",
+        "drupal/examples": "^3.0",
         "drupal/webform": "^6.1",
         "drush/drush": "^10",
         "pantheon-upstreams/upstream-configuration": "*"
