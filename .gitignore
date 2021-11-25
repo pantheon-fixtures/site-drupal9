@@ -130,3 +130,6 @@ upstream/web/
 
 # Ignore .env files as they are personal
 #/.env
+
+# Custom
+custom_gitignore_rule
